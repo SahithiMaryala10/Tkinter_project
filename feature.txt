@@ -1,1 +1,2 @@
 Hi i'm working on feature branch
+i want to throw an error
